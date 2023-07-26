@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on exciting front-end projects that push the boundaries of user experience and design.
 - 🤔 I’m looking for help with implementing secure payment gateways and data encryption for enhanced user privacy.
 - 💬 Ask me about creating interactive user interfaces, CSS animations, and responsive design techniques.
-- 👨‍💻 All of my projects are available at www.mannyfk.netlify.app/
+- 👨‍💻 All of my projects are available at www.mannyfk.netlify.app
 - 📫 You can reach out to me via email at mannyfakoya@gmail.com
 - ⚡ Fun fact: I'm Batman!
 
