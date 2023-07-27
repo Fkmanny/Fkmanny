@@ -14,7 +14,7 @@
 
 ### Skills
 
-- <img src="![html5-colored](https://github.com/Fkmanny/Fkmanny/assets/111753024/09cc96b6-9d97-4438-9308-a365c3df892f)" alt="HTML5" width="30"/>
+- "![html5-colored](https://github.com/Fkmanny/Fkmanny/assets/111753024/09cc96b6-9d97-4438-9308-a365c3df892f)" 
 - <img href="[https://www.w3.org/TR/CSS/#css](https://www.w3.org/TR/CSS/#css)" alt="CSS3" width="30"/>
 
 
