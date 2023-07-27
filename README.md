@@ -12,7 +12,7 @@
 - 📫 You can reach out to me via email at mannyfakoya@gmail.com
 - ⚡ Fun fact: I'm Batman!
 
-##Skills
+## Skills
 - <img href="h[ttps://developer.mozilla.org/en-US/docs/Glossary/HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)" alt="HTML5" width="30"/>
 - <img href="[https://www.w3.org/TR/CSS/#css](https://www.w3.org/TR/CSS/#css)" alt="CSS3" width="30"/>
 - <img href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)" alt="JavaScript" width="30"/>
