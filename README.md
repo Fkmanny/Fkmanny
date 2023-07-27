@@ -12,10 +12,9 @@
 - 📫 You can reach out to me via email at mannyfakoya@gmail.com
 - ⚡ Fun fact: I'm Batman!
 
-## Skills
+### Skills
 
-- Tailwind CSS <img src="https://example.com/path/to/tailwind.svg" alt="Tailwind CSS Logo" width="20" height="20"/>
-- <img href="h[ttps://developer.mozilla.org/en-US/docs/Glossary/HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)" alt="HTML5" width="30"/>
+- <img src="h[ttps://developer.mozilla.org/en-US/docs/Glossary/HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)" alt="HTML5" width="30"/>
 - <img href="[https://www.w3.org/TR/CSS/#css](https://www.w3.org/TR/CSS/#css)" alt="CSS3" width="30"/>
 - <img href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)" alt="JavaScript" width="30"/>
 - <img href="[https://reactjs.org/](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)" alt="React" width="30"/>
