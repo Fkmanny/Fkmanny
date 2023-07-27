@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manny</h1>
+# Hi 👋, I'm Manny
 <h3 align="center">I'm a Frontend Developer from West Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fkmanny&label=Profile%20views&color=0e75b6&style=flat" alt="fkmanny" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fkjiggy" target="blank"><img src="https://img.shields.io/twitter/follow/fkjiggy?logo=twitter&style=for-the-badge" alt="fkjiggy" /></a> </p>
 
@@ -13,7 +12,7 @@
 
 - 🤝 I’m looking for help with **implementing secure payment gateways and data encryption for enhanced user privacy.**
 
-- 👨‍💻 All of my projects are available at [https://mannyfk.netlify.app](https://mannyfk.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mannyfk.netlify.app)
 
 - 💬 Ask me about **creating interactive user interfaces, CSS animations, and responsive design techniques.**
 
