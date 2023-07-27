@@ -2,7 +2,6 @@
 
 ## I'm a Frontend Developer from West Africa
 
-<h3 align="center" font-size="1.5rem">I'm a Frontend Developer from West Africa</h3>
 
 
 <p align="left"> <a href="https://twitter.com/fkjiggy" target="blank"><img src="https://img.shields.io/twitter/follow/fkjiggy?logo=twitter&style=for-the-badge" alt="fkjiggy" /></a> </p>
