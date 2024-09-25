@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **implementing secure payment gateways and data encryption for enhanced user privacy.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mannyfk.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mannyfk2.netlify.app)
 
 - 💬 Ask me about **creating interactive user interfaces, CSS animations, and responsive design techniques.**
 
