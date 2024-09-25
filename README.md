@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manny
 
-## I'm a Frontend Developer from West Africa
+## I'm a Frontend Developer In Canada
 
 
 
