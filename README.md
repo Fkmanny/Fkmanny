@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **OSCP prep, advanced threat hunting, and AI-driven incident response**.
 - 👯 I’m looking to collaborate on **red team/purple team projects, SOC automation, and DFIR case studies**.
 - 🤝 I’m open to mentoring **junior analysts on SOC workflows, phishing analysis, and MITRE ATT&CK mapping**.
-- 👨‍💻 My portfolio of cybersecurity and cloud projects is available here: [My Portfolio](https://mannyfk2.netlify.app)
+<!-- - 👨‍💻 My portfolio of cybersecurity and cloud projects is available here: [My Portfolio](https://mannyfk2.netlify.app) -->
 - 💬 Ask me about **SIEM tuning, penetration testing, digital forensics, and secure cloud configurations**.
 - 📫 How to reach me **mannyfakoya@gmail.com**
 - ⚡ Fun fact **I can spin up a SOC alert triage workflow faster than I can make my coffee (most days).**
