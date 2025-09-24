@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manny
 
-## 🛡️ Cybersecurity Engineer | Threat Hunter | DFIR Specialist
+## 🛡️ Cybersecurity Engineer | SOC Analyst | Digital Forensics Specialist
 
 <p align="left"> 
   <a href="https://twitter.com/fkjiggy" target="blank">
